@@ -1,7 +1,7 @@
 # Analysis-on-Idian-Startup-Ecosystem-
 In a group of four members called 'Team florence', we were tasked to analyse the Indian start-up ecosystem to propose working course of action. In this light, the team set out to understand the problem, the Indian start-up terrain, and how best a new business will attract funding from investors given multiple factors.
 
-*Article about the project : https://medium.com/@richmensah1997an-exploratory-data-analysis-on-indian-start-up-ecosystem-funding-from-2018-to-2021-with-python-c4020b3e3815*
+*Article about the project : https://medium.com/@richmensah1997/an-exploratory-data-analysis-on-indian-start-up-ecosystem-funding-from-2018-to-2021-with-python-c4020b3e3815*
 
 *LinkedIn : https://www.linkedin.com/in/richard-mensah-ab8564190/*
 
